@@ -60,7 +60,7 @@ const latte1: Latte = {
     milk: 4;
 }
 
-// 구적 서브타이핑(structural subtyping)
+// 구조적 서브타이핑(structural subtyping)
 const latte2 = {
     cafeIn: 20;
     fat: 10;
