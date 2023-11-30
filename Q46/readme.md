@@ -93,7 +93,3 @@ console.log(new B().x); // ReferenceError: B is not defined
 ## 📄 Reference
 
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
-
-```
-
-```
