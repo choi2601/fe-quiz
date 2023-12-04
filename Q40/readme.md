@@ -17,7 +17,7 @@ console.log(new Bar());
 
 - [] {}
 - [] { value: 1 }
-- [] { value: 2 }
+- [x] { value: 2 }
 - [] Error
 
 ## 🤔 My Thinking
@@ -39,3 +39,5 @@ When we call Foo.call(this) from within the Bar constructor function, the Foo fu
 ## 📄 Reference
 
 > https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call
+
+> https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-Call-Bind-Apply
